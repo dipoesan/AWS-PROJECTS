@@ -25,13 +25,13 @@ You can setup the rest of the options as shown below, then create the bucket -
 
 ![image](https://user-images.githubusercontent.com/22638955/139275713-3b8fb6c4-8430-474f-98c1-b087fd0f88cc.png)
 
-STEP 3 - UPLOAD CONTENTS INTO YOUR BUCKET
+## STEP 3 - UPLOAD CONTENTS INTO YOUR BUCKET
 
 Go into your created bucket and then upload the contents of `s3staticsitecode` (You can drag and drop) -
 
 ![image](https://user-images.githubusercontent.com/22638955/139276518-a7d29f67-76ab-4317-8d88-9e223a24eddc.png)
 
-STEP 4 - SETUP S3 FOR STATIC WEB HOSTING
+## STEP 4 - SETUP S3 FOR STATIC WEB HOSTING
 
 Navigate to the properties tab and then lets look for `static website hosting`
 
